@@ -29,7 +29,7 @@
   .section-description {
       color: #757575;
       text-align: center;
-      font-size: 18px;
+      font-size: 18px ;
   }
 
 
@@ -198,6 +198,7 @@
       margin-top: 100px;
       background: #FFF8F3;
       padding: 130px 200px;
+      gap: 100px;
   }
 .social-links a{
     margin-right: 40px;
@@ -212,7 +213,7 @@
   .contact input[type="email"],
   textarea {
       display: block;
-      margin: 25px;
+      margin-bottom: 25px;
       padding: 18px 35px;
       color: #757575;
       border-radius: 5px;
@@ -221,3 +222,7 @@
       width: 100%;
 
   }
+  /* .contact input[type="submit"]{
+   text-align: left;
+
+  } */
