@@ -116,4 +116,14 @@ main{
   }
   .about-info{
     text-align: center;
+    margin-top: 0;
+  }
+  .info-description{
+    margin-top: 0;
+  }
+  #what-i-do-description{
+    padding: 30px 150px;
+  }
+  .skills-container{
+    display: flex;
   }
